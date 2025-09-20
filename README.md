@@ -9,9 +9,8 @@ This repository contains my **MS Excel based Sales Analysis Assignment**, where 
 
 The entire assignment (data preparation, calculations, and dashboard design) has been done by me to enhance my **Excel skills**.  
 
-## 📸 Dashboard Preview  
-![Dashboard Screenshot](./dashboard.png)  
-*(Replace `dashboard.png` with your uploaded file name in the repo)*  <img width="906" height="574" alt="Screenshot 2025-09-20 215732" src="https://github.com/user-attachments/assets/6ba1e66e-682c-4a16-90e0-c8caa603159a" />
+## 📸 Dashboard Preview   
+ <img width="906" height="574" alt="Screenshot 2025-09-20 215732" src="https://github.com/user-attachments/assets/6ba1e66e-682c-4a16-90e0-c8caa603159a" />
 
 
 ## 🚀 Skills Practiced  
